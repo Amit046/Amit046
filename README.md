@@ -4,9 +4,16 @@
 
 </div>
 
+---
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 # 💫 About Me:
 🔭 I'm currently working on — A scalable fintech product at Bluestock as an SDE Intern, building core application features across multiple modules<br>👯 I'm looking to collaborate on — Full-stack web apps, real-time communication tools (WebRTC), or data analytics dashboards<br>🤝 I'm looking for help with — Advanced system design patterns and optimizing ML pipelines for production<br>🌱 I'm currently learning — Deep diving into distributed systems, advanced React patterns, and cloud deployment (AWS/GCP)<br>💬 Ask me about — WebRTC video calling, Power BI dashboards, Python ML pipelines, or Flask/Django backends<br>⚡ Fun fact — I built a real-time video calling app from scratch using WebRTC + Socket.IO, and a CPU scheduling simulator — because why just study OS concepts when you can visualize them!
 
+<br clear="right"/>
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_amit_in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/-amit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Amit046_) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Amit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Amityt500678@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://amit-portfolio11.onrender.com)
@@ -35,3 +42,7 @@
 [![](https://visitcount.itsvg.in/api?id=Amit046&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer&text=Turning+Code+into+Real-World+Solutions+%F0%9F%9A%80&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+</div>
