@@ -35,14 +35,18 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amit046&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+
+<div align="center">
+
+[![Video Call App](https://github-readme-stats.vercel.app/api/pin/?username=Amit046&repo=Video_Call_App&theme=tokyonight&hide_border=false)](https://github.com/Amit046/Video_Call_App)
+[![Amit Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Amit046&repo=amit-portfolio&theme=tokyonight&hide_border=false)](https://github.com/Amit046/amit-portfolio)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amit046&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer&text=Turning+Code+into+Real-World+Solutions+%F0%9F%9A%80&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer&text=Turning+Code+into+Real-World+Solutions+%F0%9F%9A%80&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
