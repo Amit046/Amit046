@@ -1,186 +1,115 @@
 <div align="center">
 
-```
-█████╗ ███╗   ███╗██╗████████╗
-██╔══██╗████╗ ████║██║╚══██╔══╝
-███████║██╔████╔██║██║   ██║
-██╔══██║██║╚██╔╝██║██║   ██║
-██║  ██║██║ ╚═╝ ██║██║   ██║
-╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;WebRTC+%26+Real-Time+Systems+%F0%9F%93%A1;Data+Science+%26+ML+Engineer+%F0%9F%A4%96;SDE+Intern+%40+Bluestock+Fintech+%F0%9F%92%B9;Turning+Code+into+Real-World+Solutions+%E2%9C%A8)](https://git.io/typing-svg)
-
-[![](https://visitcount.itsvg.in/api?id=Amit046&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Amit+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;WebRTC+%26+Real-Time+Systems+%F0%9F%93%A1;Data+Science+%26+ML+Engineer+%F0%9F%A4%96;SDE+Intern+%40+Bluestock+Fintech+%F0%9F%92%B9)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-```python
-class Amit:
-    name        = "Amit"
-    username    = "Amit046"
-    location    = "Gurugram, Haryana 🇮🇳"
-    university  = "Lovely Professional University"
-    currently   = "SDE Intern @ Bluestock Fintech 💹"
-
-    working_on  = "Scalable fintech product across multiple modules"
-    collaborate = ["Full-stack web apps", "WebRTC tools", "Data dashboards"]
-    learning    = ["Distributed Systems", "Advanced React", "AWS/GCP ☁️"]
-
-    ask_me_about = [
-        "WebRTC Video Calling 🎥",
-        "Power BI Dashboards 📊",
-        "Python ML Pipelines 🤖",
-        "Flask / Django Backends 🐍"
-    ]
-
-    fun_fact = """Built a real-time video app with WebRTC + Socket.IO
-    AND a CPU scheduling simulator — why study OS when you can visualize it! ⚡"""
-```
+🔭 I'm currently working on — A scalable fintech product at Bluestock as an SDE Intern, building core application features across multiple modules<br>
+👯 I'm looking to collaborate on — Full-stack web apps, real-time communication tools (WebRTC), or data analytics dashboards<br>
+🤝 I'm looking for help with — Advanced system design patterns and optimizing ML pipelines for production<br>
+🌱 I'm currently learning — Deep diving into distributed systems, advanced React patterns, and cloud deployment (AWS/GCP)<br>
+💬 Ask me about — WebRTC video calling, Power BI dashboards, Python ML pipelines, or Flask/Django backends<br>
+⚡ Fun fact — I built a real-time video calling app from scratch using WebRTC + Socket.IO, and a CPU scheduling simulator — because why just study OS concepts when you can visualize them!
 
 ---
 
 ## 🌐 Socials
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFB3)](https://linkedin.com/in/-amit)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00FFB3)](https://www.hackerrank.com/profile/amityt500678)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FFB3)](mailto:amityt500678@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-amit)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/amityt500678)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amityt500678@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-<div align="center">
+**Languages**
 
-**🗣️ Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFB3)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FFB3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFB3)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFB3)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FFB3)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFB3)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFB3)
+**Frontend & Real-Time**
 
-**🎨 Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![WebRTC](https://img.shields.io/badge/WebRTC-%23333333.svg?style=for-the-badge&logo=webrtc&logoColor=white)
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFB3)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socketdotio&logoColor=00FFB3)
-![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge&logo=webrtc&logoColor=00FFB3)
+**Backend**
 
-**⚙️ Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FFB3)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FFB3)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FFB3)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFB3)
+**Data & ML**
 
-**🤖 Data & ML**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FFB3)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FFB3)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FFB3)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FFB3)
-![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=00FFB3)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=00FFB3)
-![SciPy](https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=00FFB3)
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=00FFB3)
+**Databases**
 
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFB3)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FFB3)
-
-**🛠️ Tools**
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFB3)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFB3)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFB3)
-
-</div>
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | 🔗 Project | 📝 Description | 🛠️ Stack |
 |-----------|---------------|---------|
 | [🎥 Video Call App](https://github.com/Amit046/Video_Call_App) | Real-time video calling with chat & screen sharing | React · WebRTC · Socket.IO · Node.js |
-| [🌦️ Weather Analytics](https://github.com/Amit046/real-time-weather-predictive-analytics) | Real-time AQI & weather prediction | Python · Flask · ML · REST APIs |
+| [🌦️ Weather Analytics](https://github.com/Amit046/real-time-weather-predictive-analytics) | Real-time AQI & weather prediction system | Python · Flask · ML · REST APIs |
 | [📊 Meta Ad Dashboard](https://github.com/Amit046/Meta-Ad-Performance-Dashboard) | Interactive Power BI ad performance KPIs | Power BI · DAX · Data Modeling |
 | [🖥️ CPU Scheduler](https://github.com/Amit046/Process-Scheduling-Dashboard) | Visual CPU scheduling simulator | Python · FCFS · SJF · Round Robin |
 | [🌐 Portfolio](https://github.com/Amit046/amit-portfolio) | Tech-conference-style personal portfolio | React · Node.js · CSS |
 
-</div>
-
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Amit046&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Amit046&theme=tokyonight&hide_border=true&background=000000&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit046&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=00FFB3&text_color=ffffff)
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Amit046&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Amit046&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit046&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Amit046&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
+![](https://github-profile-trophy.vercel.app/?username=Amit046&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## ✍️ Dev Quote of the Day
-
-<div align="center">
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-
 ---
 
-## 🔝 Top Contributed Repos
+### 🔝 Top Contributed Repo
 
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Amit046&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=Amit046&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║  "Code never lies,                       ║
-║   comments sometimes do."                ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+[![](https://visitcount.itsvg.in/api?id=Amit046&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ **Like my work? Star my repos!** ⭐
-
-*Proudly crafted with ❤️ — not just with GPRM 😄*
+*Proudly created with ❤️ & GPRM*
 
 </div>
