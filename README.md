@@ -29,8 +29,8 @@
 ### ✍️ Quote
 <div align="center">
 
-> *"The best error message is the one that never shows up — write code that makes success inevitable."*
->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 > — **Keep building. Keep shipping. The world needs what you're creating.** 🚀
 
 </div>
