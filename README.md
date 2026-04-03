@@ -43,13 +43,7 @@
 
 ---
 
-### 🔝 Top Contributed Repos
 
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Amit046&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
