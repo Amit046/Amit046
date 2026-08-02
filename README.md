@@ -25,12 +25,6 @@ I'm looking to collaborate on — Full-stack web apps, real-time communication t
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amit046&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Amit046&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit046&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ### ✍️ Quote
 <div align="center">
